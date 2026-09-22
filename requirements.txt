@@ -1,0 +1,10 @@
+streamlit
+numpy
+scikit-fuzzy
+scipy
+networkx
+langchain
+langchain-core
+langchain-huggingface
+huggingface_hub
+python-dotenv
