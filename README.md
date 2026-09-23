@@ -108,9 +108,6 @@ The actual token should never be uploaded to GitHub.
 
  Running the Project
 
-```markdown
- Running the Project
-
 Run the following command:
 
 ```bash
