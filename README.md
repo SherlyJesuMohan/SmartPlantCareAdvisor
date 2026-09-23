@@ -96,7 +96,7 @@ SmartPlantCareAdvisor/
 └── README.md
 
 
- **Installation and Setup
+ ## Installation and Setup
 
  1. Clone the Repository
 
