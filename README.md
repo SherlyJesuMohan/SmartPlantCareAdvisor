@@ -113,3 +113,10 @@ python -m streamlit run app.py
 
 The application will open in the browser.
 
+## 🔗 Project Links
+
+###  GitHub Repository
+[SmartPlantCareAdvisor](https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor)
+
+### 🌱 Live Application
+[Smart Plant Care Advisor](https://smart-plant-care-advisor.streamlit.app/)
