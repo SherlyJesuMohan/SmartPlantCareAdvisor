@@ -116,8 +116,8 @@ The application will open in the browser.
 
 GitHub Repository:
 
-</>https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor
+```https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor
 
 Deployment Link:
 
-</>https://smart-plant-care-advisor.streamlit.app
+```https://smart-plant-care-advisor.streamlit.app
