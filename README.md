@@ -110,15 +110,14 @@ The actual token should never be uploaded to GitHub.
 
 Run the following command:
 
-```bash
 python -m streamlit run app.py
 
 The application will open in the browser.
 
-GitHub Repository:
+**GitHub Repository:**
 
 https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor
 
-Deployment Link:
+**Deployment Link:**
 
 https://smart-plant-care-advisor.streamlit.app
