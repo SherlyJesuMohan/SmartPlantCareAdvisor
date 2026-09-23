@@ -95,7 +95,6 @@ SmartPlantCareAdvisor/
 ├── .gitignore
 └── README.md
 
-
  ## Installation and Setup
 
  1. Clone the Repository
@@ -137,6 +136,6 @@ GitHub Repository:
 
 https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor
 
-Deployment Link
+Deployment Link:
 
 https://smart-plant-care-advisor.streamlit.app
