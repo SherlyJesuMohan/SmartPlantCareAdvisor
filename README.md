@@ -81,20 +81,6 @@ The result is displayed as:
 - 🟡 Moderate Care Needed
 - 🔴 High Care Needed
 
----
-
- ## Project Structure
-
-```text
-SmartPlantCareAdvisor/
-│
-├── app.py
-├── fuzzy_logic.py
-├── llm_helper.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-
  ## Installation and Setup
 
  1. Clone the Repository
