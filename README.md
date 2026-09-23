@@ -85,7 +85,6 @@ The result is displayed as:
 
  1. Clone the Repository
 
-```bash
 git clone https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor.git
 
 2. Open the Project Folder
@@ -114,10 +113,3 @@ python -m streamlit run app.py
 
 The application will open in the browser.
 
-GitHub Repository:
-
-```https://github.com/SherlyJesuMohan/SmartPlantCareAdvisor
-
-Deployment Link:
-
-```https://smart-plant-care-advisor.streamlit.app
